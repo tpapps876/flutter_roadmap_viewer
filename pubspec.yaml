@@ -1,0 +1,27 @@
+name: flutter_roadmap_viewer
+description: A highly customizable roadmap and skill tree visualization widget with interactive pan/zoom, multiple layout orientations, and progress tracking.
+version: 0.1.0
+homepage: https://github.com/tpapps876/flutter_roadmap_viewer
+repository: https://github.com/tpapps876/flutter_roadmap_viewer
+issue_tracker: https://github.com/tpapps876/flutter_roadmap_viewer/issues
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.10.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  mocktail: ^1.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+topics:
+  - roadmap
+  - visualization
+  - graph
+  - widget
+  - interactive
